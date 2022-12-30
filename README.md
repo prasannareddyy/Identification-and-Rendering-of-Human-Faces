@@ -16,7 +16,7 @@
 
 1. Download this repository as zip file and unzip it to a folder.
 
-2. Crate two empty folders named 'dataset' and 'trainer' in the above folder.
+2. Create two empty folders named 'dataset' and 'trainer' in the above folder.
 
   <img src="folder.png" width="400">
   
